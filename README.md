@@ -1,10 +1,7 @@
-## Olá, eu sou a Isabely Bueno!
+### Olá, eu sou a Isabely Bueno!
 
 
-<div style="display: inline_block"><br>
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=isbueno&show_icons=true&theme=tokyonight)
-[![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isbueno&hide_progress=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 ## 
 <div style="display: inline_block"><br>
